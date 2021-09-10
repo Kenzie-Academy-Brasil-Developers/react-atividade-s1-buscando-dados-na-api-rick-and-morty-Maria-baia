@@ -1,0 +1,13 @@
+h1{
+    color: #FFFAF0;
+}
+
+.name{
+    font-size: 20px;
+}
+
+.charactersList{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

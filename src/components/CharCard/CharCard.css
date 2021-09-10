@@ -1,0 +1,23 @@
+.green, .red{
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+}
+
+.green{
+    background-color: #FFFF00;
+}
+
+.red{
+    background-color: #FFFAFA;
+}
